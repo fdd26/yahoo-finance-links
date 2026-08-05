@@ -43,3 +43,12 @@
 
 [SIXY.TO - Dividend History](https://dividendhistory.org/payout/tsx/SIXY/)
 
+# Warning about leveraged dividend stocks:
+
+- Make sure the NAV change is positive
+- Some Evolve ETF are negative so be aware of that
+- Negative NAV change means ROC (Return of Capital)
+
+- Make sure the underlying stocks have strong fundamentals in the current stock market scenario
+- Make sure the risk / ROI is within your boundaries
+
